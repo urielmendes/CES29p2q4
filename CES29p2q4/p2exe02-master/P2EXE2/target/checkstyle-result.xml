@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/home/uriel/git/CES29p2q4/p2exe02-master/P2EXE2/src/exe/VulnerableClassTest.java">
+<error line="6" severity="warning" message="Import statement for &apos;org.junit.Test&apos; is in the wrong order. Should be in the &apos;THIRD_PARTY_PACKAGE&apos; group, expecting not assigned imports on this line." source="com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck"/>
+</file>
+<file name="/home/uriel/git/CES29p2q4/p2exe02-master/P2EXE2/src/exe/VulnerableClass.java">
+<error line="14" column="3" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+</checkstyle>
